@@ -1,0 +1,33 @@
+.barranav{
+    background-color: rgb(140, 39, 223);
+}
+#titulonav{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 200px;
+    text-decoration: none;
+    color: rgb(245, 241, 241);
+
+}
+.filtrolinks{
+    color:rgb(245, 241, 241) ;
+    font-size: 15px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 1px solid white ;
+    border-radius: 15px;
+    margin: 10px 20px;
+}
+.linkactivo{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 1px solid white ;
+    border-radius: 15px;
+}
+.widget{
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+}
